@@ -55,6 +55,10 @@ public class RetratoRobot {
 		rasgos[rasgo.ordinal()] = valor;
 	}
 	
+	public static boolean addOpcionRasgo(Rasgos rasgo, String opción) {
+		
+	}
+	
 	@Override
 	public String toString() {
 //		return Stream.iterate(0, n -> n + 1)
